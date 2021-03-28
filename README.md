@@ -61,6 +61,10 @@ $ https://github.com/Huzaib/Conditional-Generative-Adversarial-Network.git
 Further, just run the jupyter notebook
 
 
+## Training Loss Curve
+![Loss Curve](https://github.com/Huzaib/Conditional-Generative-Adversarial-Network/blob/main/Training%20Loss%20Curve/loss.png)
+
+
 ## GIF of images generated during training 
 ![Training GIF](https://github.com/Huzaib/Conditional-Generative-Adversarial-Network/blob/main/Training%20GIF/mnist.gif)
 
